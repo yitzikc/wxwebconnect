@@ -206,7 +206,9 @@
     <ClCompile Include="webcontrol.cpp" />
     <ClCompile Include="protocolhandler.cpp" />
     <ClCompile Include="webframe.cpp" />
+    <ClCompile Include="webpanel.cpp" />
     <ClCompile Include="webprefs.cpp" />
+    <ClCompile Include="gui_util.cpp" />
     <ClCompile Include="xh_webcontrol.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -226,6 +228,8 @@
     <ClInclude Include="protocolhandler.h" />
     <ClInclude Include="webcontrol.h" />
     <ClInclude Include="webframe.h" />
+    <ClInclude Include="webpanel.h" />
+    <ClInclude Include="gui_util.h" />
     <ClInclude Include="xh_webcontrol.h" />
     <ClInclude Include="xulrunner_private_headers_192.h" />
     <ClInclude Include="xulrunner_private_headers_20.h" />
